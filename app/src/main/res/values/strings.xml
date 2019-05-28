@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">LESSON1.2</string>
+    <string name="app_name">New Application</string>
+    <!--<string name="app_name">LESSON1.2</string>-->
     <string name="toast_button">Toast</string>
     <string name="count_button">Count</string>
     <string name="show_count_text">0</string>
     <string name="toast_text">Hello Toast!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
 </resources>
